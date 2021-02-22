@@ -8,3 +8,8 @@ BLOOD_TYPES      = (
             ('O+','O+'),
             ('O-','O-'),
         )
+
+PERSON_TYPE      = (
+            ('patient','Patient'),
+            ('donator','donator'),
+        )
